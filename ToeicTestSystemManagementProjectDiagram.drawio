@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T15:08:00.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UmaKf0rG6R8DocLD2hQ8" version="16.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-03T15:10:12.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KqgFdR93Lnet9U4JUKkc" version="16.1.2" type="github" pages="8">
   <diagram id="jWhiF09ARdG3DVjqojcq" name="BFD">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="by7MdEMISTTF_xZOWimD-0" />
         <mxCell id="by7MdEMISTTF_xZOWimD-1" parent="by7MdEMISTTF_xZOWimD-0" />
-        <mxCell id="PG4vH5zjta3uDObOAnCw-0" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="by7MdEMISTTF_xZOWimD-1">
-          <mxGeometry x="380" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
