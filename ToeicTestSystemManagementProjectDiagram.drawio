@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T01:13:52.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="3E4GgwWvh8BDSjomWCYc" version="17.2.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-28T01:16:59.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="-R2K6tXLqR2sOYLMw0Jc" version="17.2.4" type="github" pages="8">
   <diagram id="jWhiF09ARdG3DVjqojcq" name="BFD">
-    <mxGraphModel dx="1955" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="by7MdEMISTTF_xZOWimD-0" />
         <mxCell id="by7MdEMISTTF_xZOWimD-1" parent="by7MdEMISTTF_xZOWimD-0" />
@@ -765,7 +765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D9ligsCVWemalPljv09z" name="Use Case Diagram">
-    <mxGraphModel dx="2234" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="I93rMZ3Ody3_BwGvtmhT-0" />
         <mxCell id="I93rMZ3Ody3_BwGvtmhT-1" parent="I93rMZ3Ody3_BwGvtmhT-0" />
@@ -1103,7 +1103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eIdcggg_n8_nC_e6zfZ5" name="SD group">
-    <mxGraphModel dx="3124" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6382" dy="2973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="vaNuzbupZ_ufCnYrujGT-0" />
         <mxCell id="vaNuzbupZ_ufCnYrujGT-1" parent="vaNuzbupZ_ufCnYrujGT-0" />
@@ -3498,8 +3498,8 @@
         <mxCell id="64mqYOzZqS2nJWufluab-6" value="[Không tìm thấy]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="vaNuzbupZ_ufCnYrujGT-1" vertex="1">
           <mxGeometry x="-45" y="1557" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5OUW1OHvvi57CAQA8OrT-0" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 15px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Admin/Collaborator&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FFFFFF;" parent="vaNuzbupZ_ufCnYrujGT-1" vertex="1">
-          <mxGeometry x="2130" y="390" width="170" height="30" as="geometry" />
+        <mxCell id="5OUW1OHvvi57CAQA8OrT-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Admin&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FFFFFF;" parent="vaNuzbupZ_ufCnYrujGT-1" vertex="1">
+          <mxGeometry x="2170" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
